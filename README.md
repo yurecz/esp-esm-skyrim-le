@@ -1,2 +1,3 @@
 # esp-esm-skyrim-le
-ESP-ESM Tool Skyrim LE Translation files
+Файлы перевода на русский язык модов Skyrim LE в формате ESP-ESM Translator Tool
+
